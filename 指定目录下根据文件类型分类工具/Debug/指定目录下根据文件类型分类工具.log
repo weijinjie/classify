@@ -1,0 +1,11 @@
+﻿  utils.cpp
+  main.cpp
+  init.cpp
+  file.cpp
+  process.cpp
+  Destructor.cpp
+  Generating Code...
+c:\users\love5\desktop\指定目录下根据文件类型分类工具\指定目录下根据文件类型分类工具\destructor.cpp(25): warning C4715: 'freeFileInfoList': not all control paths return a value
+  SingleLinkedList.c
+  指定目录下根据文件类型分类工具.vcxproj -> C:\Users\love5\Desktop\指定目录下根据文件类型分类工具\Debug\指定目录下根据文件类型分类工具.exe
+  指定目录下根据文件类型分类工具.vcxproj -> C:\Users\love5\Desktop\指定目录下根据文件类型分类工具\Debug\指定目录下根据文件类型分类工具.pdb (Partial PDB)
