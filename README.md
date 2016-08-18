@@ -2,9 +2,9 @@
 
 <table>
 	<tr>
-		<td>![](https://github.com/weijinjie/resource/blob/master/2016-08-18_160239.png)</td>
+		<img src="https://github.com/weijinjie/resource/blob/master/2016-08-18_160239.png">
 	<tr>
 	<tr>
-		<td>![](https://github.com/weijinjie/resource/blob/master/2016-08-18_160317.png)</td>
+		<img src="https://github.com/weijinjie/resource/blob/master/2016-08-18_160239.png">
 	<tr>
 </table>
